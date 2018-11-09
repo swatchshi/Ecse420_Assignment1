@@ -1,7 +1,7 @@
 package ca.mcgill.ecse420;
 /*
 *
-* This helper class is to ensure that thread id is start at 0
+* I use this helper class in the textbook's appendx to ensure that thread id is start at 0
 * 
 */
 public class ThreadID {
